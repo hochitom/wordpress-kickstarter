@@ -1,4 +1,5 @@
-wordpress-kickstarter
+# wordpress-kickstarter
 =====================
 
-my personal wordpress kickstarter
+this project is a quick kickstarter for wordpress projects.
+
